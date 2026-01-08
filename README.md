@@ -10,9 +10,9 @@ Mushroom Classifier — A Streamlit-based image classification app that analyzes
 Demo / Screenshots
 Place the UI screenshots in the repository at `assets/screenshots/` with the filenames below. The README references these files so they display on GitHub.
 
-- assets/screenshots/upload_view.png — Upload UI (drag & drop)
-- assets/screenshots/landing_view.png — App header & file selector
-- assets/screenshots/prediction_view.png — Prediction result, confidence and warning
+- screenshots/Initial UI.png — Upload UI (drag & drop)
+- screenshots/Uploading a Mushroom.png — App header & file selector
+- screenshots/Classifying.png — Prediction result, confidence and warning
 
 Insert the images into this README as follows:
 
